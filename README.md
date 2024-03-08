@@ -1,5 +1,10 @@
 ### Hi there 👋
-E
+I am a student attending a career and technical academy, and I'm really passionate about game development. Recently, I've been exploring many potential projects I could create in the future, such as those with team based mechanics. Currently, I'm working on a project in Roblox with a group of friends, and I'm excited to explore all the possibilities it offers, what I can accomplish, and generally what new information I can acquire.
+
+In game development, I am most interested in exploring how collaboration can enhance the mood and tone of a game. I would also like to know more about how to properly execute and implement these kinds of mechanics into my games. I believe that creating games with team based mechanics adds an extra layer of depth and fun to the gameplay, especially when it involves friends.
+
+Right now, I am focused on learning Lua scripting using Roblox, as it provides a great foundation for beginners like me to start creating. I would also like to learn Lua at some point so that I can make mods for Source Engine games as it is an engine I am really fascinated in. In the future, I'm also interested in exploring other programming languages such as C++ and Python to expand my skills and create even more engaging experiences for players.
+
 <!--
 **Atrick21/Atrick21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
